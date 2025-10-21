@@ -50,6 +50,9 @@ Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
+![WhatsApp Image 2025-10-15 at 21 23 02_4078a056](https://github.com/user-attachments/assets/f3f4ecfb-0b6b-41ef-b25c-aaa49ca6c28a)
+![WhatsApp Image 2025-10-21 at 16 07 22_f3ffe173](https://github.com/user-attachments/assets/f6369b1f-c608-47b5-b3f1-13501d8c8a70)
+![WhatsApp Image 2025-10-21 at 16 09 30_e6262f05](https://github.com/user-attachments/assets/1551e47f-ee8f-4a82-875f-12f62e929791)
 
 **PROCEDURE:**
 
